@@ -1,0 +1,6 @@
+RABBITMQ_HOST = 'localhost'
+
+EMBEDDING_EXTRACTOR_RK = 'count_faces_queue'
+
+DETECTOR_FRAME_BATCH_SIZE = 10
+THRESHOLD = 0.99
